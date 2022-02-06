@@ -7,7 +7,7 @@
 
 - 💬 Ask me about JavaScript
 
-- ✨ I love to learn new things **everyday**.
+- ✨ I love learning new things **everyday**.
 
 - 📫 How to reach me: **mdl.diop97@gmail.com**
 
