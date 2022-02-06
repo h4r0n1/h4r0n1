@@ -1,7 +1,7 @@
 # Hi there, I'm Mountaga  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-🔭 I’m currently learning **React, Ionic, Typescript, VueJs, etc.**
-💬 Ask me about JavaScript
-✨ I love to learn new things **everyday**.
+🔭 I’m currently learning **React, Ionic, Typescript, VueJs, etc.**<br/>
+💬 Ask me about JavaScript<br/>
+✨ I love to learn new things **everyday**.<br/>
 📫 How to reach me: mdl.diop97@gmail.com
 
 ## 🌐Socials
