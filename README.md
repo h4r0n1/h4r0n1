@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-  <td valign="center">
+  <td>
     - 🔭 I’m currently learning **React, Ionic, Typescript, VueJs, etc.**
     - 💬 Ask me about JavaScript
     - ✨ I love to learn new things **everyday**.
