@@ -4,10 +4,10 @@
 <tr>
   <td>
     <ul>
-      <li>🔭 I’m currently learning **React, Ionic, Typescript, VueJs, etc.**</li>
-      <li>💬 Ask me about JavaScript</li>
-      <li>✨ I love to learn new things **everyday**.</li>
-      <li>📫 How to reach me: mdl.diop97@gmail.com</li>
+      <li>🔭 I’m currently learning **React, Ionic, Typescript, VueJs, etc.** </li>
+      <li>💬 Ask me about **JavaScript** </li>
+      <li>✨ I love to learn new things **everyday** .</li>
+      <li>📫 How to reach me: **mdl.diop97@gmail.com** </li>
     </ul>
 <td >
    <a href="https://app.daily.dev/h4r0n1"><img src="https://api.daily.dev/devcards/665a5cd8b8c1443a8cebb150eebf78c0.png?r=nrx" width="400" alt="Mountaga Diao LeyeDiop's Dev Card"/></a>
