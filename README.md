@@ -3,10 +3,10 @@
 <table>
 <tr>
   <td>
-      <p>🔭 I’m currently learning **React**, **Ionic**, **Typescript**, **VueJs**, **etc.**</p>
-      <p>💬 Ask me about **JavaScript**</p>
-      <p>✨ I love to learn new things **everyday**.</p>
-      <p>📫 How to reach me: **mdl.diop97@gmail.com**</p>
+      <p>🔭 I’m currently learning **React** , **Ionic** , **Typescript** , **VueJs** , **etc.**</p>
+      <p>💬 Ask me about **JavaScript** </p>
+      <p>✨ I love to learn new things **everyday** .</p>
+      <p>📫 How to reach me: **mdl.diop97@gmail.com** </p>
 <td >
    <a href="https://app.daily.dev/h4r0n1"><img src="https://api.daily.dev/devcards/665a5cd8b8c1443a8cebb150eebf78c0.png?r=nrx" width="400" alt="Mountaga Diao LeyeDiop's Dev Card"/></a>
   </td>
