@@ -3,7 +3,7 @@
 <table>
 <tr>
   <td>
-      <p>🔭 I’m currently learning **React** , **Ionic** , **Typescript** , **VueJs** , **etc.**</p>
+      🔭 I’m currently learning **React, Ionic, Typescript, VueJs, etc.**
       <p>💬 Ask me about **JavaScript** </p>
       <p>✨ I love to learn new things **everyday** .</p>
       <p>📫 How to reach me: **mdl.diop97@gmail.com** </p>
