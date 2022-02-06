@@ -1,9 +1,8 @@
 <h1 align="center">Hi there, I'm Mountaga  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
 
-<center>
 ---
 [![](https://visitcount.itsvg.in/api?id=h4r0n1&icon=0&color=0)](https://visitcount.itsvg.in)
-</center
+
 
 - 🔭 I’m currently learning **React, Ionic, Typescript, VueJs, etc.**</br>
 
