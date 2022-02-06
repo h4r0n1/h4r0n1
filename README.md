@@ -1,8 +1,17 @@
 # Hi there, I'm Mountaga  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-🔭 I’m currently learning **React, Ionic, Typescript, VueJs, etc.**<br/>
-💬 Ask me about JavaScript<br/>
-✨ I love to learn new things **everyday**.<br/>
-📫 How to reach me: mdl.diop97@gmail.com
+<table>
+<tr>
+  <td>
+    -🔭 I’m currently learning **React, Ionic, Typescript, VueJs, etc.**
+    -💬 Ask me about JavaScript
+    -✨ I love to learn new things **everyday**.
+    -📫 How to reach me: mdl.diop97@gmail.com
+<td >
+   <a href="https://app.daily.dev/h4r0n1"><img src="https://api.daily.dev/devcards/665a5cd8b8c1443a8cebb150eebf78c0.png?r=nrx" width="400" alt="Mountaga Diao LeyeDiop's Dev Card"/></a>
+  </td>
+
+</tr>
+</table>
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mdl-diop/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/h4r0n1) 
