@@ -1,18 +1,28 @@
 <h1 align="center">Hi there, I'm Mountaga  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
 
-<a href="https://app.daily.dev/h4r0n1"><img src="https://github.com/h4r0n1/h4r0n1/blob/main/devcard.svg" width="400" alt="Mountaga Diao LeyeDiop's Dev Card"/></a>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=h4r0n1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-- 🔭 I’m currently learning **React, Ionic, Typescript, VueJs, etc.**</br>
+<table>
+<tr>
+  <td valign="center">
+    - 🔭 I’m currently learning **React, Ionic, Typescript, VueJs, etc.**</br>
 
 - 💬 Ask me about **JavaScript**
 
 - ✨ I love learning new things **everyday**.
 
 - 📫 How to reach me: **mdl.diop97@gmail.com**
+<td >
+# this is my daily.dev card, you can edit this accordingly
+    <a href="https://app.daily.dev/h4r0n1"><img src="https://github.com/h4r0n1/h4r0n1/blob/main/devcard.svg" width="400" alt="Mountaga Diao LeyeDiop's Dev Card"/></a>
+  </td>
+
+</tr>
+</table>
+
+
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdl-diop/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/h4r0n1)
