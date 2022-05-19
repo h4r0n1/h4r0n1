@@ -6,7 +6,7 @@
 <table>
 <tr>
   <td valign="center">
-- 🔭 I’m currently learning **React, Ionic, Typescript, VueJs, etc.**</br>
+- 🔭 I’m currently learning **React, Ionic, Typescript, VueJs, etc.**
 
 - 💬 Ask me about **JavaScript**
 
