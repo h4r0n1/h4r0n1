@@ -3,7 +3,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=h4r0n1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
 <table>
 <tr>
   <td valign="center">
@@ -15,7 +14,7 @@
 
 - 📫 How to reach me: **mdl.diop97@gmail.com**
 <td >
-    <a href="https://app.daily.dev/h4r0n1"><img src="https://github.com/h4r0n1/h4r0n1/blob/main/devcard.svg" width="400" alt="Mountaga Diao LeyeDiop's Dev Card"/></a>
+    <a href="https://app.daily.dev/h4r0n1"><img src="https://github.com/h4r0n1/h4r0n1/blob/main/devcard.svg" width="200" alt="Mountaga Diao LeyeDiop's Dev Card"/></a>
   </td>
 
 </tr>
