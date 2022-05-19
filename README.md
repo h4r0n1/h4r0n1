@@ -6,8 +6,6 @@
 <table>
 <tr>
   <td valign="center">
- - 💬 Ask me about **JavaScript**
-
 - 💬 Ask me about **JavaScript**
 
 - ✨ I love learning new things **everyday**.
