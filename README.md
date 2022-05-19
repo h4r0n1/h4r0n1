@@ -6,7 +6,7 @@
 <table>
 <tr>
   <td valign="center">
-🔭 I’m currently learning **React, Ionic, Typescript, VueJs, etc.**
+- 🔭 I’m currently learning **React, Ionic, Typescript, VueJs, etc.**
 
 - 💬 Ask me about **JavaScript**
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me: **mdl.diop97@gmail.com**
 <td >
-    <a href="https://app.daily.dev/h4r0n1"><img src="https://github.com/h4r0n1/h4r0n1/blob/main/devcard.svg" width="200" alt="Mountaga Diao LeyeDiop's Dev Card"/></a>
+    <a href="https://app.daily.dev/h4r0n1"><img src="https://github.com/h4r0n1/h4r0n1/blob/main/devcard.svg" width="300" alt="Mountaga Diao LeyeDiop's Dev Card"/></a>
   </td>
 
 </tr>
