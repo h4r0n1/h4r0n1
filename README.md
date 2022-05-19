@@ -6,7 +6,7 @@
 <table>
 <tr>
   <td valign="center">
-- 🔭 I’m currently learning **React, Ionic, Typescript, VueJs, etc.**
+- 🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
 
 - 💬 Ask me about **JavaScript**
 
