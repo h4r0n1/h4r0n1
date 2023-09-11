@@ -18,7 +18,7 @@
  </td>
     
 <td>
-    <a href="https://app.daily.dev/h4r0n1"><img src="https://github.com/h4r0n1/h4r0n1/blob/main/devcard.svg" width="300" alt="Mountaga Diao LeyeDiop's Dev Card"/></a>
+    <a href="https://app.daily.dev/h4r0n1"><img src="https://api.daily.dev/devcards/665a5cd8b8c1443a8cebb150eebf78c0.png?r=vbz" width="400" alt="Mountaga Diao LeyeDiop's Dev Card"/></a>
   </td>
 
 </tr>
