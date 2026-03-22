@@ -139,7 +139,7 @@
   <a href="https://mdld.dev/about?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=profile&amp;utm_content=website_badge"><img src="https://img.shields.io/badge/Website-mdld.dev-18181B?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" alt="Website"></a>
   <a href="https://github.com/h4r0n1"><img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/mdl-diop/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/h4r0n1"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&amp;logo=Twitter&amp;logoColor=white" alt="Twitter"></a>
+  <a href="https://x.com/MDLD_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X (Twitter)"></a>
 </p>
 
 <p align="center">
