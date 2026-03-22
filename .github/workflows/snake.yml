@@ -1,12 +1,16 @@
 name: Contribution snake
 
-permissions:
-  contents: write
-
 on:
   workflow_dispatch:
   schedule:
     - cron: "0 6 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: true
 
 jobs:
   snake:
@@ -14,16 +18,17 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: Platane/snk@v3.4.1
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            assets/github-contribution-grid-snake.svg?palette=github
+            assets/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: JamesIves/github-pages-deploy-action@v4
+      - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          branch: output
-          folder: dist
-          commit-message: "chore: update contribution snake [skip ci]"
+          commit_message: "chore: update contribution snake [skip ci]"
+          file_pattern: assets/github-contribution-grid-snake*.svg
