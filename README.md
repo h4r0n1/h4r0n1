@@ -32,15 +32,11 @@
 <!-- GitHub Snake -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/h4r0n1/h4r0n1/main/assets/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/h4r0n1/h4r0n1/main/assets/github-contribution-grid-snake.svg">
-    <img width="100%" src="https://raw.githubusercontent.com/h4r0n1/h4r0n1/main/assets/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake animation">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/h4r0n1/h4r0n1@main/assets/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/h4r0n1/h4r0n1@main/assets/github-contribution-grid-snake.svg">
+    <img width="100%" src="https://cdn.jsdelivr.net/gh/h4r0n1/h4r0n1@main/assets/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake animation">
   </picture>
 </div>
-
-<p align="center">
-  <sub>Updated daily via Actions. To refresh now: <strong>Actions → Contribution snake → Run workflow</strong> (SVGs live in <code>assets/</code> on <code>main</code>).</sub>
-</p>
 
 <p align="center">
   <img width="88%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=12,14,18,22&amp;height=4&amp;section=footer" alt=""/>
