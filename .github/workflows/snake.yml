@@ -6,7 +6,7 @@ on:
     - cron: "0 6 * * *"
 
 permissions:
-  contents: write
+  contents: read
 
 concurrency:
   group: contribution-snake
@@ -16,19 +16,21 @@ jobs:
   snake:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
         with:
           fetch-depth: 0
 
-      - uses: Platane/snk@v3.5.0
+      - uses: Platane/snk@e2cedf76a2c05b25d09a6428ded69727b497a700 # v3.4.1
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             assets/github-contribution-grid-snake.svg?palette=github
             assets/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: stefanzweifel/git-auto-commit-action@v7
+      - uses: stefanzweifel/git-auto-commit-action@b863ae1933cb653a53c021fe36dbb774e1fb9403 # v5
         with:
           commit_message: "chore: update contribution snake [skip ci]"
           file_pattern: assets/github-contribution-grid-snake*.svg
