@@ -1,7 +1,7 @@
 name: DevCard
 
 permissions:
-  contents: write
+  contents: read
 
 on:
   workflow_dispatch:
@@ -14,8 +14,10 @@ on:
 jobs:
   devcard:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: devcard
-        uses: dailydotdev/action-devcard@3.2.1
+        uses: dailydotdev/action-devcard@892dbef7cb9419b045744afa1120dfbf3014c857 # 2.0.2
         with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
