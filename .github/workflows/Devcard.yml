@@ -18,6 +18,6 @@ jobs:
       contents: write
     steps:
       - name: devcard
-        uses: dailydotdev/action-devcard@892dbef7cb9419b045744afa1120dfbf3014c857 # 2.0.2
+        uses: dailydotdev/action-devcard@958db5a3e058fa60678968743b17214f7fc03a4b # 3.2.1
         with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
